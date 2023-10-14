@@ -3,8 +3,8 @@ This repository hackerspacelab contains many documentation file, notes, setups a
 
 # Software
 ## Test from the server of LHC
--[Prometheus Proxy](https://github.com/pambrose/prometheus-proxy)
-
+- [Prometheus Proxy](https://github.com/pambrose/prometheus-proxy)
+- [Proxy to allow Prometheus to scrape through NAT etc](https://github.com/prometheus-community/PushProx)
 
 # Hardware
 ## Test from the desk of LHC
