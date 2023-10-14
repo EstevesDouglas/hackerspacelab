@@ -5,6 +5,7 @@ This repository hackerspacelab contains many documentation file, notes, setups a
 ## Test from the server of LHC
 - [Prometheus Proxy](https://github.com/pambrose/prometheus-proxy)
 - [Proxy to allow Prometheus to scrape through NAT etc](https://github.com/prometheus-community/PushProx)
+- [issue - nipe port to raspberrypi](https://github.com/htrgouvea/nipe/issues/112)
 
 # Hardware
 ## Test from the desk of LHC
