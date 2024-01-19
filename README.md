@@ -9,6 +9,7 @@ This repository hackerspacelab contains many documentation file, notes, setups a
 
 ## Test from HOMELab
 - [[x]proxmox](https://www.proxmox.com/en/)
+- [x][uptme kuma](https://github.com/louislam/uptime-kuma)
 
 ## Tests
 - [Dockge](https://dockge.kuma.pet/)
