@@ -8,7 +8,7 @@ This repository hackerspacelab contains many documentation file, notes, setups a
 - [issue - nipe port to raspberrypi](https://github.com/htrgouvea/nipe/issues/112)
 
 ## Test from HOMELab
-- [ ] [etherpad](https://www.digitalocean.com/community/tutorials/how-to-install-the-etherpad-collaborative-web-editor-on-ubuntu-20-04)
+- [[X]etherpad](https://www.digitalocean.com/community/tutorials/how-to-install-the-etherpad-collaborative-web-editor-on-ubuntu-20-04)
 - [[x]proxmox](https://www.proxmox.com/en/)
 - [x][uptme kuma](https://github.com/louislam/uptime-kuma)
 
