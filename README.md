@@ -11,6 +11,7 @@ This repository hackerspacelab contains many documentation file, notes, setups a
 - [[X]etherpad](https://www.digitalocean.com/community/tutorials/how-to-install-the-etherpad-collaborative-web-editor-on-ubuntu-20-04)
 - [[x]proxmox](https://www.proxmox.com/en/)
 - [x][uptme kuma](https://github.com/louislam/uptime-kuma)
+- [x][Rancher](https://ranchermanager.docs.rancher.com/getting-started/installation-and-upgrade/other-installation-methods/rancher-on-a-single-node-with-docker)
 
 ## Tests
 - [Dockge](https://dockge.kuma.pet/)
