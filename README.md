@@ -6,6 +6,7 @@ This repository hackerspacelab contains many documentation file, notes, setups a
 - [Prometheus Proxy](https://github.com/pambrose/prometheus-proxy)
 - [Proxy to allow Prometheus to scrape through NAT etc](https://github.com/prometheus-community/PushProx)
 - [issue - nipe port to raspberrypi](https://github.com/htrgouvea/nipe/issues/112)
+- [prompt slam](https://github.com/Francesco-Sch/prompt-slam)
 
 ## Test from HOMELab
 - [[X]etherpad](https://www.digitalocean.com/community/tutorials/how-to-install-the-etherpad-collaborative-web-editor-on-ubuntu-20-04)
