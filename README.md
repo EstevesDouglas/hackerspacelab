@@ -18,6 +18,10 @@ This repository hackerspacelab contains many documentation file, notes, setups a
 - [linuxserver/homeassistant](https://docs.linuxserver.io/images/docker-homeassistant/) [13/03/2024]
 - [][uptme kuma](https://github.com/louislam/uptime-kuma)
 
+## Red Hat Developer [09/04/2024]
+- [All development topics](https://developers.redhat.com/topics)
+- [Start exploring in the Developer Sandbox for free](https://developers.redhat.com/developer-sandbox)
+
 
 ## Tests
 - [Dockge](https://dockge.kuma.pet/)
