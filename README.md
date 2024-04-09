@@ -9,9 +9,9 @@ This repository hackerspacelab contains many documentation file, notes, setups a
 - [prompt slam](https://github.com/Francesco-Sch/prompt-slam)
 
 ## Test from HOMELab
-- [[X]etherpad](https://www.digitalocean.com/community/tutorials/how-to-install-the-etherpad-collaborative-web-editor-on-ubuntu-20-04)
-- [[x]proxmox](https://www.proxmox.com/en/)
-- [x][Rancher](https://ranchermanager.docs.rancher.com/getting-started/installation-and-upgrade/other-installation-methods/rancher-on-a-single-node-with-docker)
+- [etherpad](https://www.digitalocean.com/community/tutorials/how-to-install-the-etherpad-collaborative-web-editor-on-ubuntu-20-04)
+- [proxmox](https://www.proxmox.com/en/)
+- [Rancher](https://ranchermanager.docs.rancher.com/getting-started/installation-and-upgrade/other-installation-methods/rancher-on-a-single-node-with-docker)
 - 
 ## Test from HomePiLab
 - [Prometheus Proxy](https://github.com/pambrose/prometheus-proxy)
