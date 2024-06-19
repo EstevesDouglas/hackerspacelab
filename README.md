@@ -16,7 +16,8 @@ This repository hackerspacelab contains many documentation file, notes, setups a
 ## Test from HomePiLab
 - [Prometheus Proxy](https://github.com/pambrose/prometheus-proxy)
 - [linuxserver/homeassistant](https://docs.linuxserver.io/images/docker-homeassistant/) [13/03/2024]
-- [][uptme kuma](https://github.com/louislam/uptime-kuma)
+- [uptme kuma](https://github.com/louislam/uptime-kuma)
+- [pharmageddon](https://github.com/gasman/pharmageddon)
 
 ## Red Hat Developer [09/04/2024]
 - [All development topics](https://developers.redhat.com/topics)
